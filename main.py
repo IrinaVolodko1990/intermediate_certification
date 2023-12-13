@@ -17,8 +17,8 @@ def create_new_list(list_1):
     index = 0
     for item in list_1:
         if len(item) <= 3:
-            index += 1
             new_list.insert(index, item)
+            index += 1
     return new_list
 
 
