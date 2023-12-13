@@ -15,7 +15,7 @@
 
 ### Блок-схема алгоритма  
 
-![блок-схема алгоритма](https://github.com/IrinaVolodko1990/intermediate_certification/blob/master/img/algoritm.jpg)
+![блок-схема алгоритма](https://github.com/IrinaVolodko1990/intermediate_certification/blob/master/img/algoritm.png)
 
 ### Решение
 
